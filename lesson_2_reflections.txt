@@ -3,3 +3,6 @@ When I initialize a repository, an invisible folder will be created which enable
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area helps us prepare or select the files which we want to commit to a repository. It offers value in that it helps the programmer select what he may or maynot want in the repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+This can be done since we can commit only the files which have been modified to the staging area and then consequently commit it(them).
