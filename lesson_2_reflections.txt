@@ -1,3 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 When I initialize a repository, an invisible folder will be created which enables git to track changes, commits and actions which will occur over time in that folder.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area helps us prepare or select the files which we want to commit to a repository. It offers value in that it helps the programmer select what he may or maynot want in the repository
