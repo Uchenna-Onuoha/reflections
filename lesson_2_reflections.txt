@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+When I initialize a repository, an invisible folder will be created which enables git to track changes, commits and actions which will occur over time in that folder.
+

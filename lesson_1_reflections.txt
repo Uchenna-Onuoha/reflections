@@ -1,0 +1,26 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+I was able to understand that spot the difference immediately because the "diff"
+command put each section of the files together. Hence, the difference could easily be identified.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Having access to a program's history can help on in terms of seeing what the program was and what is has
+metermophorsized into. It is a good way to catch errors and ensure that complete program collapse is prevented.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros; It will help the user have control and thus understand his own work
+Cons; User may mistakenly forget to commit as he is engrossed in his work and the entire program might collapse.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Version control systems are basically for programs like apps or websites which are codependent on different languages and files, however, google docs are more
+for the average person's use in that files mostly saved on it are doc files and photos.
+
+How can you use the commands git log and git diff to view the history of files?
+The git log command is used to check the history of commits in a project or program along with the time and comments accompanying each change.
+The git diff command on the other hand is used to check the differences that occured in codes/ versions before and after a commit.
+
+How might using version control make you more confident to make changes that could break something?
+Using version control will enable me to make huge changes to the program which i am working on, with the view in mind that if I mess up, I always have the ability
+to return to a restore point.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Lets save a couple of files!
