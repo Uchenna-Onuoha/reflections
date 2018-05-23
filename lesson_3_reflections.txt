@@ -1,0 +1,13 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Because people might also be contributors to the project and might push code which is unworkable or intricate and I want to keep my work as I pushed it to GitHub
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are copies of other people's repository on GitHub. Cloning is theprocess of downloading repositories from Github to one's local device. Branches
+are commit paths which are created outside of the master or original branch. Forks are used to get other people's repo's on Github,
+clones are used to download or pull works from the Github servers while branches are used to create paths for other instances of new features in code.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It helps one work on the most recent commit available for said project.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+After understanding Git and GtHub, I can see no other easier and flawless approach which will solve the problem of collaboration. Life surely would be harder without Git and Github.
